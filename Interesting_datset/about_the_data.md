@@ -12,6 +12,6 @@ No. | Question
 6 | Do members spend more than normal status?
 7 | What is each city's female to male rate?
 8 | What is each city's member to normal rate?
-9 | What is the average time of each product line purchase?
+9 | What is the most common time of each product line purchase?
 10| Is there a correlation of payment method with customer type and time?
 
