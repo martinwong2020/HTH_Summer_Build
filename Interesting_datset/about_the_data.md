@@ -14,4 +14,5 @@ No. | Question
 8 | What is each city's member to normal rate?
 9 | What is the most common time of each product line purchase?
 10| Is there a correlation of payment method with customer type and time?
+11| 
 
